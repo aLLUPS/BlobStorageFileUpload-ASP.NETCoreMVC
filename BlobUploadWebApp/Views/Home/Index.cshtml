@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<h4 class="upload-file-link text-center ">
+    <a asp-controller="UserMedia" asp-action="MediaFileUpload">Upload your Files Here</a>
+</h4>
+
+<style>
+    .upload-file-link {
+        margin-top: 100px;
+    }
+    .upload-file-link a{
+        border-radius: 5px;
+        background-color: rebeccapurple;
+        color: white;
+        padding: 5px 10px;
+        width: 300px;
+        text-decoration: none;
+    }
+    .upload-file-link a:hover{
+        text-decoration: none;
+        background-color: grey;
+        color: white;
+    }
+</style>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobUploadWebApp", "BlobUploadWebApp\BlobUploadWebApp.csproj", "{F6C4065F-13E6-4C7F-B030-95E93077EA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C4065F-13E6-4C7F-B030-95E93077EA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C4065F-13E6-4C7F-B030-95E93077EA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C4065F-13E6-4C7F-B030-95E93077EA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C4065F-13E6-4C7F-B030-95E93077EA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA39AB9-2A74-46D9-8BC0-0B1AAA1CAA8B}
+	EndGlobalSection
+EndGlobal
