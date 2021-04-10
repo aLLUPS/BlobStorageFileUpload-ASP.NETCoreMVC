@@ -19,6 +19,8 @@ This repository contains an ASP .NET Core MVC Web Application project intergrate
   
     Insert the Name of the Blob container created in Azure blob storage, replacing the 'NameOfTheBlobContainer' at line 49 and 60 respectively. (do not delete the double quotes)
     
+    <br>
+    <br>
     
 Then try the following command in NuGet Package Manger Console:
 
