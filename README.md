@@ -1,5 +1,6 @@
 # BlobUploadWebApp
-This repository contains an ASP .NET Core MVC Web Application project intergrated with Microsoft Azure Blob Storage. (Go through the README.md file before using the project)
+This repository contains an ASP .NET Core MVC Web Application project intergrated with Microsoft Azure Blob Storage.\
+It is recommended to read this medium article before using the project:- [click here](https://pawara73.medium.com/microsoft-azure-blob-storage-asp-net-core-mvc-with-identity-ui-6c701861f87c)
 
 ![](Preview/TheOutPut.gif)
 
